@@ -1,0 +1,18 @@
+body{
+    background-color: lightgreen;
+    text-align: center;
+}
+h1{
+    font-size: 80px;
+    text-align: center;
+}
+.logo{
+    height: 250px;
+}
+.videos{
+    display: flex;
+    justify-content: space-around;
+}
+p, a{
+    font-size: xx-large;
+}
